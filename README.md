@@ -12,3 +12,12 @@ Le rythme du changement et la quantité d’informations à notre disposition au
 ### La pensée Strategique
 ![penseestrategique](images/penseestrategique.png)
 ![penseestrategique](images/penseestrategique2.png)
+## Découvrir Les Sept éléments De la Reflexions
+QPI: La question la plus importante
+![q1](images/q1.png)
+![q2](images/q2.png)
+![q3](images/q3.png)
+![q4](images/q4.png)
+![q5](images/q5.png)
+![q6](images/q6.png)
+![q7](images/q7.png)
