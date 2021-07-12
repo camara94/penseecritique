@@ -81,3 +81,14 @@ QPI: La question la plus importante
 ![erreur2](images/erreurplanification2.png)
 ![erreur3](images/erreurplanification3.png)
 ![erreur4](images/erreurplanification4.png)
+
+## Mieux Reformuler Ses Questions
+![ques](images/reformulerq.png)
+
+## Découvrir Les Questions Qui Entretiennent La Curiosité
+![curiosite1](images/curiosite1.png)
+![curiosite2](images/curiosite2.png)
+![curiosite3](images/curiosite3.png)
+![curiosite4](images/curiosite4.png)
+![curiosite5](images/curiosite5.png)
+![curiosite6](images/curiosite6.png)
