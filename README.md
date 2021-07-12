@@ -61,3 +61,18 @@ QPI: La question la plus importante
 ![qqq9](images/qqq9.png)
 ![qqq10](images/qqq10.png)
 ![qqq11](images/qqq12.png)
+
+## Comprendre Les Sophismes Les Plus Courants Au Travail
+![sophisme1](images/sophisme.png)
+![sophisme2](images/sophisme2.png)
+![sophisme3](images/sophisme3.png)
+![sophisme4](images/sophisme4.png)
+![sophisme5](images/sophisme5.png)
+![sophisme6](images/sophisme6.png)
+![sophisme7](images/sophisme7.png)
+![sophisme8](images/sophisme8.png)
+![sophisme9](images/sophisme9.png)
+![sophisme10](images/sophisme10.png)
+![sophisme11](images/sophisme11.png)
+![sophisme12](images/sophisme12.png)
+![sophisme13](images/sophisme13.png)
