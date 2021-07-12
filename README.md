@@ -76,3 +76,8 @@ QPI: La question la plus importante
 ![sophisme11](images/sophisme11.png)
 ![sophisme12](images/sophisme12.png)
 ![sophisme13](images/sophisme13.png)
+## Eviter Les Erreurs De Planification
+![erreur1](images/erreurplanification.png)
+![erreur2](images/erreurplanification2.png)
+![erreur3](images/erreurplanification3.png)
+![erreur4](images/erreurplanification4.png)
