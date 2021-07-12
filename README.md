@@ -92,3 +92,7 @@ QPI: La question la plus importante
 ![curiosite4](images/curiosite4.png)
 ![curiosite5](images/curiosite5.png)
 ![curiosite6](images/curiosite6.png)
+
+## Carnet De Décision
+![carnet](images/carnetdedecision.png)
+
