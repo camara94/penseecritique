@@ -35,3 +35,6 @@ QPI: La question la plus importante
 ![qq8](images/qq8.png)
 ![qq9](images/qq9.png)
 ![qq10](images/qq10.png)
+## Explorer Le Fonctionnement De La Pensée
+![fonction](images/fonctionnementdelapensee.png)
+![systeme 2](images/system2.png)
