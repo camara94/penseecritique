@@ -43,3 +43,8 @@ QPI: La question la plus importante
 ![intution](images/intution.png)
 ### REF
 ![ref](images/ref.png)
+## Utiliser Le Raisonnement ContreFactuel
+![raisonnementcontrefactuel](images/raisonnementcontrefactuel.png)
+![raisonnementcontrefactuelp](images/raisonnementcontrefactuelp.png)
+![raisonnementcontrefactueln](images/raisonnementcontrefactueln.png)
+![raisonnementcontrefactueln](images/raisonnementcontrefactuelf.png)
