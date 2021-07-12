@@ -96,3 +96,6 @@ QPI: La question la plus importante
 ## Carnet De Décision
 ![carnet](images/carnetdedecision.png)
 
+## Ressources
+1. [/in/becki-saltzman-406a6111](https://www.linkedin.com/in/becki-saltzman-406a6111)
+2. [https://beckisaltzman.com](https://beckisaltzman.com)
