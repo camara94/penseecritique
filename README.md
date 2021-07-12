@@ -38,3 +38,8 @@ QPI: La question la plus importante
 ## Explorer Le Fonctionnement De La Pensée
 ![fonction](images/fonctionnementdelapensee.png)
 ![systeme 2](images/system2.png)
+## Utiliser La Méthode REF: L'Arbitre De L'Intution
+### Intution
+![intution](images/intution.png)
+### REF
+![ref](images/ref.png)
